@@ -1,0 +1,4 @@
+pandas==1.2.4
+tweepy==3.10.0
+datetime
+csv
