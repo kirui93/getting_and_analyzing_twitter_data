@@ -47,6 +47,6 @@ These are what will be our columns in the CSV file that we are creating.
 
 Pass through the script and in case of any *questions*, *comments* or *additions*, please feel free to open a **GitHub issue** and I will do the necessary.
 
-I am going to write a LinkedIn blog for analysis of **_BBI_** tweets and post the link here when I am done.
+The LinkedIn blog to this analyis can be found at [link](https://www.linkedin.com/posts/kipngeno-kirui_twitterdata-twitterposts-dataanalysis-activity-6802563252619354112-IicO)
 
 Happy coding!
