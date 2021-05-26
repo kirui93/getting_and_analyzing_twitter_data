@@ -47,6 +47,6 @@ These are what will be our columns in the CSV file that we are creating.
 
 Pass through the script and in case of any *questions*, *comments* or *additions*, please feel free to open a **GitHub issue** and I will do the necessary.
 
-The LinkedIn blog to this analyis can be found at [link](https://www.linkedin.com/posts/kipngeno-kirui_twitterdata-twitterposts-dataanalysis-activity-6802563252619354112-IicO)
+The LinkedIn blog to this analyis can be found at [link](https://www.linkedin.com/pulse/data-analysis-bbi-tweets-between-19th-20th-may-202-kipngeno-kirui)
 
-Happy coding!
+Happy coding! 
